@@ -2,4 +2,5 @@
   (lib (name "MX1A-11NN")(type "KiCad")(uri "${KIPRJMOD}/MX1A-11NN")(options "")(descr ""))
   (lib (name "Boards")(type "KiCad")(uri "${KIPRJMOD}/SparkFun-KiCad-Libraries/Footprints/Boards.pretty")(options "")(descr ""))
   (lib (name "1N4148")(type "KiCad")(uri "${KIPRJMOD}/1N4148")(options "")(descr ""))
+  (lib (name "SM04B-SRSS-TB_LF__SN")(type "KiCad")(uri "${KIPRJMOD}/SM04B-SRSS-TB_LF__SN")(options "")(descr ""))
 )
